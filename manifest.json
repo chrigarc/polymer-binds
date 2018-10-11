@@ -1,0 +1,7 @@
+{
+  "name": "polymer-binds",
+  "short_name": "polymer-binds",
+  "description": "Example with differences between one way data binding and two way data binding",
+  "start_url": "/",
+  "display": "standalone"
+}
